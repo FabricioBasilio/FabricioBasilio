@@ -1,7 +1,7 @@
 # Fabricio Basilio
 
 Sou um desenvolvedor front-end. Desenvolvi projetos simples, mas que marcam o início de minha jornada com tal área. <br />
-🌱 Estou atualmente estudando React
+🌱 Estou atualmente estudando React e Sass
 
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
